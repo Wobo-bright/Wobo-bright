@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Wobo-bright
-- 👀 I’m interested in programming and robotics 
-- 🌱 I’m currently learning python and JavaScript 
-- 💞️ I’m looking to collaborate on an Arduino Uno project 
-- 📫 How to reach me ...on my linktree linj
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...we don't even use 100% of our brain power
+# Hi there, I'm Bright👋
 
-<!---
-Wobo-bright/Wobo-bright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Python programmer with a passion for robotics and Machine learning.
+
+# 🚀 About Me
+- 🔭 I’m currently working on [Your Project or Focus]
+- 🌱 I’m learning [Technologies or Skills]
+- 💬 Ask me about [Expertise/Experience]
+- 📫 How to reach me: [Your Email/LinkedIn]
+
+### 🛠️ My Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+...
+
+### 📈 My GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
